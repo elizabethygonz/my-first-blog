@@ -1,14 +1,14 @@
-# Django Girls tutorial blog
+# Django Girls tutorial de blog
 
-> This site is the end result of the [Django Girls tutorial](https://tutorial.djangogirls.org/).
+> Este sitio es el resultado final del [Tutotrial Django Girls](https://tutorial.djangogirls.org/).
 
-Dependencies:
+Dependencias:
 
 *   Python 3.6
 *   Django 1.11
 *   Wagtail 2.0
 
-To get this project up and running,
+## Para poder correr el programa correr:
 
 ```sh
 git clone git@github.com:elizabethygonz/my-first-blog.git
@@ -21,7 +21,7 @@ python manage.py migrate
 python manage.py runserver
 ```
 
-## Beyond Django, Wagtail
+## Sobre Django, Wagtail
 
 http://docs.wagtail.io/en/v2.0.1/getting_started/integrating_into_django.html
 
